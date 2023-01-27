@@ -1,4 +1,4 @@
 # Jenkins
 This is a REPO for the exercise Jenkins
 
-Tom
+Tim & tom
