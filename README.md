@@ -1,4 +1,2 @@
 # Jenkins
-This is a REPO for the exercise Jenkins
-
-Tim & tom
+This is a repository for the exercise Jenkins!
